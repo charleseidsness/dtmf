@@ -1,0 +1,16 @@
+Install Instructions:
+
+1. Edit the top 4 lines of the Makefile. (or however many you want).
+2. Run make alsa (or just make, alsa is the default) or make oss depending on
+which Linux sound card drivers you want to use.
+3. Run make install.
+4. Run make test.
+5. Run the test-dtmf file, wherever you installed it.
+
+Usage Instructions:
+
+1. Refer to test-dtmf.c.
+2. I tried to be consistent with the standard stdio / file operations.
+
+If you have questions:
+charles@cooper-street.com
