@@ -1,3 +1,5 @@
+This is a simple DTMF Decoder for Linux.
+
 Install Instructions:
 
 1. Edit the top 4 lines of the Makefile. (or however many you want).
